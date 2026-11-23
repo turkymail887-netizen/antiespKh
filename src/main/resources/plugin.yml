@@ -1,0 +1,6 @@
+name: AntiESP
+version: 1.0.0
+main: com.example.antiesp.AntiESPPlugin
+api-version: '1.21'
+author: CustomDev
+description: Hides valuable blocks until directly visible to the player.
