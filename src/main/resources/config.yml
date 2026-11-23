@@ -1,0 +1,18 @@
+scan-interval-ticks: 5
+max-view-distance: 24.0
+radius-xz: 16
+radius-y: 10
+hidden-blocks:
+  - DIAMOND_ORE
+  - DEEPSLATE_DIAMOND_ORE
+  - EMERALD_ORE
+  - DEEPSLATE_EMERALD_ORE
+  - ANCIENT_DEBRIS
+  - GOLD_ORE
+  - DEEPSLATE_GOLD_ORE
+  - CHEST
+  - TRAPPED_CHEST
+  - ENDER_CHEST
+  - BARREL
+  - SPAWNER
+  
